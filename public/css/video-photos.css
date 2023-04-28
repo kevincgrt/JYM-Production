@@ -1,0 +1,141 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+q{
+    font-style: italic;
+}
+p{
+    margin-top: 10px;
+    font-weight: bold;
+}
+.citation, .citation2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+h1, h2{
+    color: rgb(255, 200, 102) !important;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 1.5em !important;
+    font-size: 42px !important;
+}
+h3{
+    color: rgb(18, 128, 213) !important;
+    text-align: center;
+    width: 100%;
+    margin-top: 50px !important;
+}
+
+.center-left {
+    width: 60%; /* définir une largeur fixe pour centrer le texte */
+    margin: 0 auto; /* centrer horizontalement l'élément */
+    text-align: left; /* aligner le texte à gauche */
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+  
+  .center-left p {
+    display: inline-block; /* afficher le texte en ligne */
+    text-align: left; /* aligner le texte à gauche */
+  }
+  
+  .center-left strong {
+    display: inline; /* afficher les balises strong en ligne */
+    text-align: left; /* aligner les balises strong à gauche */
+    color: rgb(18, 128, 213);
+  }
+.containermariage{
+    height: 125vh;
+    background-image: url(../Images/mariage/aaron-burden-FHWgqOniOSY-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.square {
+    position: relative;
+    padding-bottom: 100%;
+    overflow: hidden;
+    margin-top: 25px;
+  }
+  .square img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .square1, .square2, .square3 {
+    position: relative;
+    padding-bottom: 100%;
+    overflow: hidden;
+    margin-top: 50px;
+  }
+  .square1 img, .square2 img, .square3 img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .container{
+    margin-right: 100px;
+    margin-left: 110px;
+  }
+#yellow{
+    color: rgb(250, 10, 10) !important;
+}
+
+.containeranniv{
+    height: 125vh;
+    background-image: url(../Images/anniv/brian-mcgowan-WfPfeM4ek7Q-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.square {
+    position: relative;
+    padding-bottom: 100%;
+    overflow: hidden;
+    margin-top: 25px;
+  }
+  .square img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .square1, .square2, .square3 {
+    position: relative;
+    padding-bottom: 100%;
+    overflow: hidden;
+    margin-top: 50px;
+  }
+  .square1 img, .square2 img, .square3 img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .container{
+    margin-right: 100px;
+    margin-left: 110px;
+  }
+  .containermontage{
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+    display: inline-block;
+    width: 100%;
+  }
+.video{
+    width: 35%;
+}

@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    color: rgb(18, 128, 213);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-transform: uppercase;
+    border-bottom: solid black 2px;
+}
+.container{
+    padding-top: 70px;
+}
+
+#p8,#p16{
+color: red;
+text-align: center;
+text-size-adjust: 24px;
+}

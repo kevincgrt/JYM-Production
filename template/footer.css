@@ -1,0 +1,79 @@
+#footer{
+    background-color: #222222;
+    color: white;
+    height: 60vh;
+}
+#phone{
+    width: 30px;
+    margin-left: -5px;
+}
+#map{
+    width: 30px;
+    margin-right: 5px;
+}
+#h5contact{
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+#textefooter{
+    margin-top: 30px;
+    text-align: center;
+    width: 50%;
+    margin-left: 150px;
+}
+#pphone{
+    border-bottom: solid rgb(18, 128, 213) 2px;
+    padding-bottom: 20px;
+}
+#mapphone{
+    width: 27vw;
+}
+#linkedin,#instagram,#facebook,#tiktok{
+    width: 30px;
+}
+#google{
+    margin-left: 30px;
+    width: 30px;
+}
+#star{
+    width: 15px;
+    margin-left: 5px;
+}
+#rate{
+    width: 25%;
+    margin-left: 160px;
+}
+.container-mentionslegales{
+    background-color: black;
+    height: 20vh;
+    color:white;
+    display: inline-block;
+}
+.container-mentionslegales li{
+    list-style: none;
+    display: inline;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.container-mentionslegales ul{
+    margin-top: 10px;
+}
+.container-mentionslegales li a{
+    text-decoration: none;
+    color: white;
+}
+.container-mentionslegales li a:hover{
+text-decoration: underline;
+}
+#p-remerciements{
+    padding-top: 50px;
+    color: white;
+    text-align: center;
+}
+#KCG{
+    width: 140px;
+    margin-left: 35vw;
+}
+.container-remerciements{
+    background-color: black;
+}
